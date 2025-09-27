@@ -65,11 +65,6 @@ npm run dev
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-- **Project Maintainer**: Team Colders
-- **GitHub**: [JayeshWani7](https://github.com/JayeshWani7)
-- **Issues**: [Report a bug](https://github.com/JayeshWani7/Code-Craft/issues)
 
 ## Acknowledgements
 
